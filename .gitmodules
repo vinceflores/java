@@ -1,0 +1,9 @@
+[submodule "othello_with_gui"]
+	path = othello_with_gui
+	url = https://github.com/vinceflores/Othello-GUI-JAVA.git
+[submodule "nobsv2"]
+	path = nobsv2
+	url = https://github.com/vinceflores/learning-springboot-nobsv2.git
+[submodule "eecs1021_labs"]
+	path = eecs1021_labs
+	url = https://github.com/vinceflores/EECS-1021-Object-Oriented-Programming-Through-Java-Course.git
