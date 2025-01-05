@@ -7,3 +7,6 @@
 [submodule "eecs1021_labs"]
 	path = eecs1021_labs
 	url = https://github.com/vinceflores/EECS-1021-Object-Oriented-Programming-Through-Java-Course.git
+[submodule "project-latte"]
+	path = project-latte
+	url = https://github.com/EECS3311F24/project-latte.git
